@@ -10,7 +10,8 @@ In this project, we deploy a streamlit app that captions images from urls on an 
 
 EC2 Web App Link : http://50.19.63.16:8501/
 
-    Note : I will deactivate the link after 10 days
+    Note : It has been deactivated to save money, but I did make demo video to illustrate its function. 
+    The IP address shown in the video changed because I stopped and restarted the instance.
 
 At the link, provide an image url that ends with an jpg, jpeg or png or other valid image type. Then click generate caption and listen to caption audio if you want to hear the text being spoken.
 
