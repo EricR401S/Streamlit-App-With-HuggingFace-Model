@@ -1,0 +1,5 @@
+pillow
+tensorflow
+transformers
+pip install gTTS
+torch
