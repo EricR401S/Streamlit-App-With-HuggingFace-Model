@@ -3,7 +3,7 @@
 ## Description
 In this project, we deploy a streamlit app that captions images from urls on an EC2 instance. This project takes inspiration from DSwithBappy's [tutorial](https://www.youtube.com/watch?v=DflWqmppOAg) on how to deploy on EC2 and expose a public link. As such, I won't restate too much of what he mentioned. 
 
-[Click Here for this Project's Overview Demo Video!!!](https://youtu.be/0wCvsfkFGwY)
+[Click Here for this Project's Overview Demo Video!!!](https://youtu.be/mGh5-txRL80)
 
 
 ## Usage
