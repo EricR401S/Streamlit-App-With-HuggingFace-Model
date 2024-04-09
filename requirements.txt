@@ -1,5 +1,6 @@
 pillow
 tensorflow
 transformers
-pip install gTTS
+gTTS
 torch
+streamlit
